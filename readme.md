@@ -1,0 +1,1 @@
+get golang module name
